@@ -1,0 +1,6 @@
+{
+  "name": "MAX - Live Hinglish Voice Companion",
+  "description": "An interactive, incredibly unpredictable, and funny real-time voice buddy named MAX who speaks casual Hinglish.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
